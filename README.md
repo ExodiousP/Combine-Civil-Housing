@@ -1,4 +1,4 @@
-This plugin will help you use apartments better in CWHL2RP.
+This plugin helps with the ease of apartment management.
 You can use the command givehomecard to give yourself a card.
 You need to name your apartment doors like this: Apartment 01, 02, or Apartment A1, A2. and then you can use the command above.
 
